@@ -33,6 +33,13 @@ Aqui estão os principais passos da demonstração:
 
 ## Demonstração em Imagens
 
+<img src="./assets/terraform-plan.png">
+<img src="./assets/terraform-pull-request.png">
+<img src="./assets/merge-pull.png">
+<img src="./assets/actions-apply.png">
+<img src="./assets/terraform-apply.png">
+<img src="./assets/curl-dns.png">
+<img src="./assets/ec2-aws.png">
 
 ## Conclusão
 
